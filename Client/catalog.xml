@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:9999/Assignment2/Asgnmnt2?WSDL" uri="xml-resources/web-service-references/Asgnmnt2/wsdl/localhost_9999/Assignment2/Asgnmnt2.wsdl"/>
+    <system systemId="http://localhost:9999/Assignment2/Asgnmnt2?xsd=1" uri="xml-resources/web-service-references/Asgnmnt2/wsdl/localhost_9999/Assignment2/Asgnmnt2.xsd_1.xsd"/>
+</catalog>
